@@ -74,10 +74,6 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  //<a href="https://firebase.google.com/">
-   // <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />        
-  //</a>&nbsp;&nbsp;  
 
 ---
   <br>
@@ -86,10 +82,10 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     
 ```bash
     # Clone o Repositório
-    git clone https://github.com/Thiago-cez/Aplicativo-Cadastro.git
+    git clone https://github.com/Thiago-cez/ignite-lab-react.git
     
     # Entre na Pasta:
-    cd Aplicativo-Cadastro
+    cd ignite-lab-react
     
     # Instale as Dependencias:
     npm install
