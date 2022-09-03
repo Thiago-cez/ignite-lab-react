@@ -26,8 +26,8 @@ Os interessados podem se inscrever e assistir as aulas que são liberadas de aco
 # Gifs 🎥
 
 <h1>
-    <img title="Photo" src="foto1.PNG"/>
-    <img title="GIFT" src="Animacao.gif" />
+    <img title="Photo" src="#"/>
+    <img title="GIFT" src="ignitelab-gif.gif" />
 </h1>
 
 # Features 
