@@ -20,7 +20,7 @@ Os interessados podem se inscrever e assistir as aulas que são liberadas de aco
 <br>
 
 # Demonstração do Projeto
-<P>Teste o Projeto Clicando a seguir: &nbsp;&nbsp;<a href="https://ignite-lab-react-sooty.vercel.app/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></p>
+<P>Teste o Projeto Clicando a seguir: &nbsp;&nbsp;<a target="_blank" href="https://ignite-lab-react-sooty.vercel.app/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></p>
 <br>
 
 # Gifs 🎥
